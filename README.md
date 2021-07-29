@@ -13,4 +13,6 @@ GoogleとWord(MicrosoftOffice)を起動します。<br>
 -お問い合わせ<br>
 何かございましたら「shaneron@sumahotektek.com」まで連絡ください。反応は非常に遅いです。<br>
 
--変更履歴
+-変更履歴<br>
+Ver1.0:初期バージョン<br>
+Ver1.1:Wordがない場合でもGoogleDocsを開くよう例外処理を追加しました。<br>
